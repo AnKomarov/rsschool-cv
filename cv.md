@@ -3,7 +3,7 @@
 #### komarov-a.v@mail.ru
 #### https://www.linkedin.com/in/andrey-komarov-08a3b9143/
 -----------------------
-BI specialist for 3 years. My occupation was Qlik products, namely **QlikView**, **QlikSense**. I terminated my growth in BI as development QlikSense requires JS. I wrote several [articles][1], [course][2]. And I have international QlikSense certificate (Business Analyst). 
+BI specialist for more than 3 years (fron Apr. 2017 to Aug. 2020). My occupation was Qlik products, namely **QlikView**, **QlikSense**. I terminated my growth in BI as development QlikSense requires JS. I wrote several [articles][1], [course][2]. And I have international QlikSense certificate (Business Analyst). 
 
 As I started to learn JS, I decided to become a **FrontEnd Developer**. Now I work as a FrontEnd Developer and will carry on doing that. Someday I see myself in **fullstack development**.
 
