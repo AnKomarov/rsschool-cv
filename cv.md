@@ -1,0 +1,23 @@
+# Curriculum vitae
+## Andrey Komarov
+#### komarov-a.v@mail.ru
+#### [LinkedIn](https://www.linkedin.com/in/andrey-komarov-08a3b9143/)
+-----------------------
+BI specialist for more than 3 years (fron Apr. 2017 to Aug. 2020). My occupation was Qlik products, namely **QlikView**, **QlikSense**. 
+
+My main tasks were: 
+* Development of Data Model
+* Development of ETL from different data sources and different systems:
+SAP; 1C; Navision,Pega, SQL; MSSQL; XLS, CSV, XML and others
+* Developing report forms
+* Development and design of user interface;
+
+For now, I terminated my growth in BI as development QlikSense requires JS. I wrote several [articles][1], [course][2]. And I have international QlikSense certificate (Business Analyst). 
+As I started to learn JS, I decided to become a **FrontEnd Developer**. Now I work as a FrontEnd Developer and will carry on doing that. Someday I see myself in **fullstack development**.
+
+I worked with T-SQL, SVN, GIT, Qlik Code, Markdown, JQuery. 
+
+I have EF SET [certificate](https://www.efset.org/cert/i4DevU) with English level of **C1** (Advanced); 
+
+[1]: https://korusconsulting.ru/press-center/publications/analiz-portovykh-biznes-protsessov-kontrol-ot-perevalki-do-morskoy-perevozki/?sphrase_id=11206 "Анализ портовых бизнес-процессов: контроль от перевалки до морской перевозки"
+[2]: https://www.udemy.com/course/qlikviewforstudents/learn/lecture/16915780#overview "QlikView для начинающих"
